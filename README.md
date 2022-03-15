@@ -1,4 +1,4 @@
-<code>👷 Speciality: Software engineer / Frontend</code><br>
+<code>👷 Speciality: Software engineer / Frontend</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>💬 telegram: [@NooNoo1337](https://telegram.me/NooNoo1337)</code>
